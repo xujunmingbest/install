@@ -1,0 +1,10 @@
+﻿  源.cpp
+源.cpp(21): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  源.cpp(21): note: 请考虑在格式字符串中使用“%zd”
+源.cpp(82): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+源.cpp(86): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  All 165 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project4.vcxproj -> E:\c++\Project4\x64\Release\Project4.exe
+  Project4.vcxproj -> E:\c++\Project4\x64\Release\Project4.pdb (Full PDB)
